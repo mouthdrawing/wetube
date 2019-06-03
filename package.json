@@ -2,9 +2,11 @@
   "name": "wetube",
   "version": "1.0.0",
   "description": "cloning youtube with vanillajs and nodejs",
-  "main": "index.js",
   "author": "kimjunho",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
